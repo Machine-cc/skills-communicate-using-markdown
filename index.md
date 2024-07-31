@@ -26,3 +26,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+用Markdown设置复选框
+- [x] 此项已完成
+- [x] 已完成
+- [ ] 未完成
+
+
+
+
