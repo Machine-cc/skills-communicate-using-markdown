@@ -13,3 +13,16 @@
 ![图片 of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 使用Markdown添加了一张图片
+
+代码示例
+示例一：
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+示例二：
+```javascript
+var myVar = "Hello, world!";
+```
+
