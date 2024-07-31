@@ -9,3 +9,7 @@
 
 
 增加了对Markdown标题的测试
+
+![图片 of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+使用Markdown添加了一张图片
